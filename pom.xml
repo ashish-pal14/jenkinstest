@@ -12,7 +12,7 @@
 <packaging>war</packaging>
 
 <build>
-<finalName>jenkinstest</finalName>
+<finalName>testapp</finalName>
 </build>
 
 </project>
